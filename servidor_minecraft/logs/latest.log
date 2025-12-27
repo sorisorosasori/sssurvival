@@ -1,0 +1,143 @@
+[18:38:27] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
+[18:38:28] [main/INFO]: Loading 44 mods:
+	- carpet 1.4.147+v240613
+	- fabric-api 0.114.0+1.21.1
+	   |-- fabric-api-base 0.4.42+6573ed8c19
+	   |-- fabric-api-lookup-api-v1 1.6.70+b559734419
+	   |-- fabric-biome-api-v1 13.0.31+d527f9fd19
+	   |-- fabric-block-api-v1 1.0.22+0af3f5a719
+	   |-- fabric-block-view-api-v2 1.0.10+6573ed8c19
+	   |-- fabric-blockrenderlayer-v1 1.1.52+0af3f5a719
+	   |-- fabric-client-tags-api-v1 1.1.15+6573ed8c19
+	   |-- fabric-command-api-v1 1.2.49+f71b366f19
+	   |-- fabric-command-api-v2 2.2.28+6ced4dd919
+	   |-- fabric-commands-v0 0.2.66+df3654b319
+	   |-- fabric-content-registries-v0 8.0.18+b559734419
+	   |-- fabric-convention-tags-v1 2.1.2+7f945d5b19
+	   |-- fabric-convention-tags-v2 2.9.2+e60e56d419
+	   |-- fabric-crash-report-info-v1 0.2.29+0af3f5a719
+	   |-- fabric-data-attachment-api-v1 1.4.0+da19b51a19
+	   |-- fabric-data-generation-api-v1 20.2.25+16c4ae2519
+	   |-- fabric-dimensions-v1 4.0.0+6fc22b9919
+	   |-- fabric-entity-events-v1 1.7.0+2122d82819
+	   |-- fabric-events-interaction-v0 0.7.13+ba9dae0619
+	   |-- fabric-game-rule-api-v1 1.0.53+6ced4dd919
+	   |-- fabric-item-api-v1 11.1.1+d5debaed19
+	   |-- fabric-item-group-api-v1 4.1.6+6823f7cd19
+	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a719
+	   |-- fabric-keybindings-v0 0.2.45+df3654b319
+	   |-- fabric-lifecycle-events-v1 2.5.0+01d9a51c19
+	   |-- fabric-loot-api-v2 3.0.15+3f89f5a519
+	   |-- fabric-loot-api-v3 1.0.3+3f89f5a519
+	   |-- fabric-message-api-v1 6.0.13+6573ed8c19
+	   |-- fabric-model-loading-api-v1 2.0.0+fe474d6b19
+	   |-- fabric-networking-api-v1 4.3.0+c7469b2119
+	   |-- fabric-object-builder-api-v1 15.2.1+40875a9319
+	   |-- fabric-particles-v1 4.0.2+6573ed8c19
+	   |-- fabric-recipe-api-v1 5.0.14+248df81c19
+	   |-- fabric-registry-sync-v0 5.2.0+34f5d91419
+	   |-- fabric-renderer-api-v1 3.4.0+c705a49c19
+	   |-- fabric-renderer-indigo 1.7.0+c705a49c19
+	   |-- fabric-renderer-registries-v1 3.2.68+df3654b319
+	   |-- fabric-rendering-data-attachment-v1 0.3.48+73761d2e19
+	   |-- fabric-rendering-fluids-v1 3.1.6+1daea21519
+	   |-- fabric-rendering-v0 1.1.71+df3654b319
+	   |-- fabric-rendering-v1 5.0.5+df16efd019
+	   |-- fabric-resource-conditions-api-v1 4.3.0+8dc279b119
+	   |-- fabric-resource-loader-v0 1.3.1+5b5275af19
+	   |-- fabric-screen-api-v1 2.0.25+8b68f1c719
+	   |-- fabric-screen-handler-api-v1 1.3.88+b559734419
+	   |-- fabric-sound-api-v1 1.0.23+6573ed8c19
+	   |-- fabric-transfer-api-v1 5.4.2+c24bd99419
+	   \-- fabric-transitive-access-wideners-v1 6.2.0+45b9699719
+	- fabricloader 0.16.3
+	   \-- mixinextras 0.4.1
+	- java 21
+	- minecraft 1.21.1
+	- syncmatica 0.3.14-sakura.5
+	   \-- fabric-permissions-api-v0 0.3.1
+[18:38:28] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/sssurvival/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[18:38:28] [main/INFO]: Compatibility level set to JAVA_17
+[18:38:28] [main/INFO]: Compatibility level set to JAVA_21
+[18:38:29] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[18:38:37] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:38:39] [main/INFO]: Loaded 1290 recipes
+[18:38:39] [main/INFO]: Loaded 1399 advancements
+[18:38:40] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.175 ms
+[18:38:40] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[18:38:40] [Server thread/INFO]: Loading properties
+[18:38:40] [Server thread/INFO]: Default game type: SURVIVAL
+[18:38:40] [Server thread/INFO]: Generating keypair
+[18:38:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:38:40] [Server thread/INFO]: Using epoll channel type
+[18:38:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:38:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:38:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:38:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:38:40] [Server thread/INFO]: Preparing level "world1"
+[18:38:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:38:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:38:43] [Server thread/INFO]: Time elapsed: 556 ms
+[18:38:43] [Server thread/INFO]: Done (3.423s)! For help, type "help"
+[18:38:50] [Server thread/INFO]: S4R1_ETHN2[/127.39.61.38:59779] logged in with entity id 15 at (-161.6896960006673, 70.0, 77.37133633963457)
+[18:38:50] [Server thread/INFO]: S4R1_ETHN2 joined the game
+[18:38:51] [Server thread/INFO]: Syncmatica client joining with local version 0.3.14-sakura.5 and client version 0.3.14-sakura.5
+[18:38:51] [Server thread/INFO]: Player S4R1_ETHN2 joined with a matching carpet client
+[18:40:10] [Server thread/INFO]: S4R1_ETHN2 has reached the goal [Sky's the Limit]
+[18:40:51] [Server thread/INFO]: S4R1_ETHN2 has made the advancement [Stone Age]
+[18:40:51] [Server thread/INFO]: S4R1_ETHN2 has made the advancement [Eye Spy]
+[18:40:54] [Server thread/INFO]: S4R1_ETHN2 has made the advancement [The End?]
+[18:44:01] [Server thread/WARN]: Rejecting UseItemOnPacket from S4R1_ETHN2: Location (305.3822212219238, 43.99000000953674, -36.8125) too far away from hit block class_2338{x=265, y=43, z=-37}.
+[18:44:02] [Server thread/WARN]: Rejecting UseItemOnPacket from S4R1_ETHN2: Location (308.8125, 43.99000000953674, -36.935858979821205) too far away from hit block class_2338{x=266, y=43, z=-37}.
+[18:44:03] [Server thread/WARN]: Rejecting UseItemOnPacket from S4R1_ETHN2: Location (308.9831199645996, 43.99000000953674, -35.18973433971405) too far away from hit block class_2338{x=266, y=43, z=-36}.
+[18:44:07] [Server thread/WARN]: Rejecting UseItemOnPacket from S4R1_ETHN2: Location (308.1875, 43.99000000953674, -36.59270313382149) too far away from hit block class_2338{x=264, y=43, z=-37}.
+[18:44:07] [Server thread/WARN]: Rejecting UseItemOnPacket from S4R1_ETHN2: Location (308.1875, 43.99000000953674, -35.8202945291996) too far away from hit block class_2338{x=264, y=43, z=-36}.
+[18:44:07] [Server thread/WARN]: Rejecting UseItemOnPacket from S4R1_ETHN2: Location (308.1875, 43.99000000953674, -34.897163189947605) too far away from hit block class_2338{x=264, y=43, z=-35}.
+[18:49:27] [Server thread/INFO]: S4R1_ETHN2 has made the advancement [Monster Hunter]
+[18:57:20] [Server thread/INFO]: S4R1_ETHN2 lost connection: Disconnected
+[18:57:20] [Server thread/INFO]: S4R1_ETHN2 left the game
+[18:58:10] [Server thread/INFO]: S4R1_ETHN[/127.39.61.38:44999] logged in with entity id 4578 at (126.41314067408453, 57.0, -33.31954927499163)
+[18:58:10] [Server thread/INFO]: S4R1_ETHN joined the game
+[18:58:11] [Server thread/INFO]: Syncmatica client joining with local version 0.3.14-sakura.5 and client version 0.3.14-sakura.5
+[18:58:11] [Server thread/INFO]: Player S4R1_ETHN joined with a matching carpet client
+[19:01:32] [Server thread/INFO]: S4R1_ETHN lost connection: Disconnected
+[19:01:32] [Server thread/INFO]: S4R1_ETHN left the game
+[19:03:26] [Server thread/INFO]: S4R1_ETHN2[/127.39.61.38:35295] logged in with entity id 6141 at (246.23611066422473, 1.0, -35.56057016169612)
+[19:03:26] [Server thread/INFO]: S4R1_ETHN2 joined the game
+[19:03:27] [Server thread/INFO]: Syncmatica client joining with local version 0.3.14-sakura.5 and client version 0.3.14-sakura.5
+[19:03:27] [Server thread/INFO]: Player S4R1_ETHN2 joined with a matching carpet client
+[19:07:02] [Server thread/INFO]: S4R1_ETHN2 lost connection: Disconnected
+[19:07:02] [Server thread/INFO]: S4R1_ETHN2 left the game
+[19:08:01] [Server thread/INFO]: S4R1_ETHN[/127.39.61.38:56787] logged in with entity id 7233 at (262.6585235805145, 1.0, -35.360930678644564)
+[19:08:01] [Server thread/INFO]: S4R1_ETHN joined the game
+[19:08:01] [Server thread/INFO]: Syncmatica client joining with local version 0.3.14-sakura.5 and client version 0.3.14-sakura.5
+[19:08:01] [Server thread/INFO]: Player S4R1_ETHN joined with a matching carpet client
+[19:11:08] [Server thread/INFO]: S4R1_ETHN lost connection: Disconnected
+[19:11:08] [Server thread/INFO]: S4R1_ETHN left the game
+[19:11:44] [Server thread/INFO]: S4R1_ETHN2[/127.39.61.38:34159] logged in with entity id 9677 at (261.6678941906656, 1.0, -35.73026688780631)
+[19:11:44] [Server thread/INFO]: S4R1_ETHN2 joined the game
+[19:11:44] [Server thread/INFO]: Syncmatica client joining with local version 0.3.14-sakura.5 and client version 0.3.14-sakura.5
+[19:11:44] [Server thread/INFO]: Player S4R1_ETHN2 joined with a matching carpet client
+[19:14:19] [Server thread/INFO]: S4R1_ETHN2 lost connection: Disconnected
+[19:14:19] [Server thread/INFO]: S4R1_ETHN2 left the game
+[19:15:00] [Server thread/INFO]: S4R1_ETHN[/127.39.61.38:46193] logged in with entity id 9897 at (261.44816606248355, 1.0, -35.61057497082674)
+[19:15:00] [Server thread/INFO]: S4R1_ETHN joined the game
+[19:15:01] [Server thread/INFO]: Syncmatica client joining with local version 0.3.14-sakura.5 and client version 0.3.14-sakura.5
+[19:15:01] [Server thread/INFO]: Player S4R1_ETHN joined with a matching carpet client
+[19:41:07] [Server thread/INFO]: S4R1_ETHN lost connection: Disconnected
+[19:41:07] [Server thread/INFO]: S4R1_ETHN left the game
+[19:41:34] [Server thread/INFO]: S4R1_ETHN2[/127.39.61.38:51753] logged in with entity id 24074 at (260.3824278989779, 1.0, -35.23323504078329)
+[19:41:34] [Server thread/INFO]: S4R1_ETHN2 joined the game
+[19:41:34] [Server thread/INFO]: Syncmatica client joining with local version 0.3.14-sakura.5 and client version 0.3.14-sakura.5
+[19:41:35] [Server thread/INFO]: Player S4R1_ETHN2 joined with a matching carpet client
+[19:42:59] [Server thread/INFO]: Set the time to 13000
+[19:45:19] [Server thread/INFO]: Set the time to 1000
+[19:46:06] [Server thread/INFO]: Set the time to 13000
+[19:46:18] [Server thread/INFO]: S4R1_ETHN2 lost connection: Disconnected
+[19:46:18] [Server thread/INFO]: S4R1_ETHN2 left the game
+[19:46:54] [Server thread/INFO]: S4R1_ETHN[/127.39.61.38:42427] logged in with entity id 26732 at (-133.71440048852122, 64.9375, 135.615532395003)
+[19:46:54] [Server thread/INFO]: S4R1_ETHN joined the game
+[19:46:54] [Server thread/INFO]: Syncmatica client joining with local version 0.3.14-sakura.5 and client version 0.3.14-sakura.5
+[19:46:54] [Server thread/INFO]: Player S4R1_ETHN joined with a matching carpet client
+[20:14:03] [Server thread/INFO]: S4R1_ETHN lost connection: Disconnected
+[20:14:03] [Server thread/INFO]: S4R1_ETHN left the game
