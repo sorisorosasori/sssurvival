@@ -1,0 +1,91 @@
+[14:36:00] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
+[14:36:00] [main/INFO]: Loading 44 mods:
+	- carpet 1.4.147+v240613
+	- fabric-api 0.114.0+1.21.1
+	   |-- fabric-api-base 0.4.42+6573ed8c19
+	   |-- fabric-api-lookup-api-v1 1.6.70+b559734419
+	   |-- fabric-biome-api-v1 13.0.31+d527f9fd19
+	   |-- fabric-block-api-v1 1.0.22+0af3f5a719
+	   |-- fabric-block-view-api-v2 1.0.10+6573ed8c19
+	   |-- fabric-blockrenderlayer-v1 1.1.52+0af3f5a719
+	   |-- fabric-client-tags-api-v1 1.1.15+6573ed8c19
+	   |-- fabric-command-api-v1 1.2.49+f71b366f19
+	   |-- fabric-command-api-v2 2.2.28+6ced4dd919
+	   |-- fabric-commands-v0 0.2.66+df3654b319
+	   |-- fabric-content-registries-v0 8.0.18+b559734419
+	   |-- fabric-convention-tags-v1 2.1.2+7f945d5b19
+	   |-- fabric-convention-tags-v2 2.9.2+e60e56d419
+	   |-- fabric-crash-report-info-v1 0.2.29+0af3f5a719
+	   |-- fabric-data-attachment-api-v1 1.4.0+da19b51a19
+	   |-- fabric-data-generation-api-v1 20.2.25+16c4ae2519
+	   |-- fabric-dimensions-v1 4.0.0+6fc22b9919
+	   |-- fabric-entity-events-v1 1.7.0+2122d82819
+	   |-- fabric-events-interaction-v0 0.7.13+ba9dae0619
+	   |-- fabric-game-rule-api-v1 1.0.53+6ced4dd919
+	   |-- fabric-item-api-v1 11.1.1+d5debaed19
+	   |-- fabric-item-group-api-v1 4.1.6+6823f7cd19
+	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a719
+	   |-- fabric-keybindings-v0 0.2.45+df3654b319
+	   |-- fabric-lifecycle-events-v1 2.5.0+01d9a51c19
+	   |-- fabric-loot-api-v2 3.0.15+3f89f5a519
+	   |-- fabric-loot-api-v3 1.0.3+3f89f5a519
+	   |-- fabric-message-api-v1 6.0.13+6573ed8c19
+	   |-- fabric-model-loading-api-v1 2.0.0+fe474d6b19
+	   |-- fabric-networking-api-v1 4.3.0+c7469b2119
+	   |-- fabric-object-builder-api-v1 15.2.1+40875a9319
+	   |-- fabric-particles-v1 4.0.2+6573ed8c19
+	   |-- fabric-recipe-api-v1 5.0.14+248df81c19
+	   |-- fabric-registry-sync-v0 5.2.0+34f5d91419
+	   |-- fabric-renderer-api-v1 3.4.0+c705a49c19
+	   |-- fabric-renderer-indigo 1.7.0+c705a49c19
+	   |-- fabric-renderer-registries-v1 3.2.68+df3654b319
+	   |-- fabric-rendering-data-attachment-v1 0.3.48+73761d2e19
+	   |-- fabric-rendering-fluids-v1 3.1.6+1daea21519
+	   |-- fabric-rendering-v0 1.1.71+df3654b319
+	   |-- fabric-rendering-v1 5.0.5+df16efd019
+	   |-- fabric-resource-conditions-api-v1 4.3.0+8dc279b119
+	   |-- fabric-resource-loader-v0 1.3.1+5b5275af19
+	   |-- fabric-screen-api-v1 2.0.25+8b68f1c719
+	   |-- fabric-screen-handler-api-v1 1.3.88+b559734419
+	   |-- fabric-sound-api-v1 1.0.23+6573ed8c19
+	   |-- fabric-transfer-api-v1 5.4.2+c24bd99419
+	   \-- fabric-transitive-access-wideners-v1 6.2.0+45b9699719
+	- fabricloader 0.16.3
+	   \-- mixinextras 0.4.1
+	- java 21
+	- minecraft 1.21.1
+	- syncmatica 0.3.14-sakura.5
+	   \-- fabric-permissions-api-v0 0.3.1
+[14:36:01] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/sssurvival/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[14:36:01] [main/INFO]: Compatibility level set to JAVA_17
+[14:36:01] [main/INFO]: Compatibility level set to JAVA_21
+[14:36:01] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[14:36:09] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:36:11] [main/INFO]: Loaded 1290 recipes
+[14:36:11] [main/INFO]: Loaded 1399 advancements
+[14:36:12] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.545 ms
+[14:36:12] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[14:36:12] [Server thread/INFO]: Loading properties
+[14:36:12] [Server thread/INFO]: Default game type: SURVIVAL
+[14:36:12] [Server thread/INFO]: Generating keypair
+[14:36:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:36:12] [Server thread/INFO]: Using epoll channel type
+[14:36:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:36:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:36:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:36:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:36:12] [Server thread/INFO]: Preparing level "world1"
+[14:36:12] [Server thread/INFO]: [CM] Loaded 7 settings from carpet.conf
+[14:36:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:36:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:36:16] [Worker-Main-1/INFO]: Preparing spawn area: 42%
+[14:36:17] [Server thread/INFO]: Time elapsed: 598 ms
+[14:36:17] [Server thread/INFO]: Done (4.510s)! For help, type "help"
+[14:37:35] [Server thread/INFO]: S4R1_ETHN[/127.249.54.54:55973] logged in with entity id 8 at (-173.23180204061504, 70.0, 108.8752069266795)
+[14:37:35] [Server thread/INFO]: S4R1_ETHN joined the game
+[14:37:36] [Server thread/INFO]: Syncmatica client joining with local version 0.3.14-sakura.5 and client version 0.3.14-sakura.5
+[14:39:34] [Server thread/INFO]: S4R1_ETHN lost connection: Disconnected
+[14:39:34] [Server thread/INFO]: S4R1_ETHN left the game
+[14:39:39] [Server thread/INFO]: S4R1_ETHN[/127.249.54.54:55785] logged in with entity id 980 at (-195.4927218716823, 70.0, 167.50654209518106)
+[14:39:39] [Server thread/INFO]: S4R1_ETHN joined the game
+[14:39:40] [Server thread/INFO]: Syncmatica client joining with local version 0.3.14-sakura.5 and client version 0.3.14-sakura.5

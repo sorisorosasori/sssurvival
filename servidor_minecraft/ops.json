@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "e04b3302-4737-34fb-8433-21bbc0f049f9",
+    "name": "S4R1_ETHN2",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e7f6c9a9-1f39-346f-baf0-6fcf7b344483",
+    "name": "S4R1_ETHN",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "fb402a91-124e-36ee-a1ee-6e47a33d51e7",
+    "name": "S4R1_ETHN1",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
